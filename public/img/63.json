@@ -1,0 +1,53 @@
+{
+    "name": "Sol Monks",
+    "symbol": "",
+    "description": "The monks will save your soul",
+    "seller_fee_basis_points": 500,
+    "external_url": "https//solbuddhas.com",
+    "image": "image.png",
+    "tokenId": 63,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sunny-day"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "brown-monk"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "starry-eye"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "gold-side"
+        },
+        {
+            "trait_type": "Ear",
+            "value": "Silver"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "Plain"
+        }
+    ],
+    "collection": {
+        "name": "Sol Monks",
+        "family": "Season 1"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "EgEv7jLkidigA6br6LNDf3PKsmCdgLX3Paefxv5ipNrz",
+                "share": 100
+            }
+        ]
+    }
+}
